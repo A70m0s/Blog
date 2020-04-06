@@ -11,3 +11,4 @@ subclass: ''
 author: Ghost
 
 ---
+Today we opened our beautiful workshop ! It takes place in Paris.
