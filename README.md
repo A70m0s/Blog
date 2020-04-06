@@ -1,1 +1,1 @@
-# Blog
+My new awesome Blog ! You will be able to learn how I made my knifes with only my hands !
